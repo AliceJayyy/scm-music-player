@@ -1,0 +1,30 @@
+#player,#player a{ color:#ffffff;  font-size: 11px; font-family: verdana;}
+#player{ background:url(https://i0.wp.com/backgroundbest.com/wp-content/uploads/2018/04/Blue-Background-Tumblr-3.jpg); background-position:bottom; background-color: #FFFFFF;}
+#player .mainImage{ background:url(http://static.tumblr.com/su8juwr/Clgmynmc2/gala1.png); }
+
+#player #baseLeft{ width:93px; } 
+#player #baseRight{ width:145px;} 
+#player .button{  width:26px; }
+#player #play{ background:url(http://static.tumblr.com/su8juwr/CTAmynlaa/gala1-crop.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }     
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 9px; } 
+#player #tooltip{ right:196px; }  
+#player #timer{ right:120px;  }  
+#player #list{ right:0px; }  
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#FFFFFF;  }  
+#player #seekerBuffered{ background-color:#000000; } 
+#player #seekerSliderBase{ background-color:#000; }
+
+#player #volume{ width:65px; right:39px; } 
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/su8juwr/uXJmynl9g/gala.png); }
+
+#playlist,#playlist .module,#playlist h3{ background:url();}
+#playlist .module{  color:#000000; background:url(); }
+#playlist h3{ background:url(http://static.tumblr.com/su8juwr/9vJmynkoq/nome.jpg);  }
+#playlist .even{background-color:#fff;background:url();}
+#playlist .odd{ background-color:#fff;background:url();}
+#playlist .focus{ background-color:#bebebe; color:#fff; }  
